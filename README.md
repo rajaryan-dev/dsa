@@ -1,7 +1,7 @@
 # 🧠 Data Structures and Algorithms (DSA) – by Raj Aryan
 
 Welcome to my **DSA Practice Repository**!  
-This repo contains my implementations, notes, and problem-solving approaches for various **Data Structures and Algorithms** concepts — written mainly in **C++** (and sometimes Python).
+This repo contains my implementations, notes, and problem-solving approaches for various **Data Structures and Algorithms** concepts — written mainly in **C++** .
 
 ---
 
