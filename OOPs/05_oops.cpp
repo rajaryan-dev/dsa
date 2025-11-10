@@ -11,8 +11,9 @@ class Student {
   Student(string name, double cgpa) {
     cout << "\n[Parameterized Constructor Called]\n";
     this->name = name;
-    cgpaPtr = new double;  // Allocate memory in Heap
-    *cgpaPtr = cgpa;       // Store value
+    cgpaPtr =
+        new double;   // Allocate memory in Heap | Dynamic Memory Allocation
+    *cgpaPtr = cgpa;  // Store value
   }
 
   //  2. Shallow Copy Constructor (Default Copy Behavior)
